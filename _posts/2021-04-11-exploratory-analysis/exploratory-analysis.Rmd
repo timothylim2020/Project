@@ -4,7 +4,6 @@ description: |
   A short description of the post.
 author:
   - name: Nora Jones
-    url: https://example.com/norajones
 date: 04-11-2021
 output:
   distill::distill_article:
@@ -16,8 +15,11 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+# 1. Introduction
+
+Many factors can impact a person’s academic performance, family background and one’s lifestyle are two of the larger factors. The influence of family background may include financial status in the family’s ability to provide educational support, stability at home to provide emotional and mental support, among others. On the other hand, one’s lifestyle choices such as what he or she chooses to do during their free time, amount of time they spend on studying may have impact on one’s grades.
+
+Since there are many sub-factors in family background and lifestyle choices, the motivation of this study is hence to look deeper at these sub-factors to see which are the factors that have a greater correlation in the impact on a student’s grades. More specifically, this study aims to study the correlation between each factor and a student’s grades, as well as aiming to build a model that can accurately determine the academic performance of a student. From the findings, targeted help may be administered to students in these specific areas attributing to poor grades in school, therein helping them have a higher chance of a better future. 
 
 
