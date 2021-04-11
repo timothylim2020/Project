@@ -1,0 +1,5 @@
+---
+title: "Assignment 1"
+site: distill::distill_website
+listing: posts
+---
